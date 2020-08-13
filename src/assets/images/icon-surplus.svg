@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon/创建</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="66.7264047%" x2="100%" y2="66.7264047%" id="linearGradient-1">
+            <stop stop-color="#96ACE0" offset="0%"></stop>
+            <stop stop-color="#5F72B4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV备份" transform="translate(-1138.000000, -318.000000)">
+            <g id="card备份-2" transform="translate(1114.000000, 298.000000)">
+                <g id="card">
+                    <g id="icon/剩余" transform="translate(24.000000, 20.000000)">
+                        <g id="编组-3">
+                            <circle id="椭圆形" fill="#FFFFFF" cx="28" cy="28" r="28"></circle>
+                            <rect id="矩形" fill="url(#linearGradient-1)" x="15" y="16" width="23" height="28" rx="2"></rect>
+                            <rect id="矩形" fill="#FFFFFF" x="19" y="26" width="10" height="2" rx="1"></rect>
+                            <rect id="矩形备份" fill="#FFFFFF" x="19" y="33" width="14" height="2" rx="1"></rect>
+                            <path d="M18,15 C18,13.8954305 18.8954305,13 20,13 L38,13 C39.6568542,13 41,14.3431458 41,16 L41,39 C41,40.1045695 40.1045695,41 39,41 L39,41 L39,41 L39,17 C39,15.8954305 38.1045695,15 37,15 L18,15 L18,15 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
